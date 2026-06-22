@@ -1,0 +1,12 @@
+com/horizon/model/ThreatAlert$ThreatAlertBuilder.class
+com/horizon/model/CorrelatedEvent$CorrelatedEventBuilder.class
+com/horizon/model/CorrelatedEvent.class
+com/horizon/model/LogEntry.class
+com/horizon/controller/LogStreamController.class
+com/horizon/HorizonBackendApplication.class
+com/horizon/service/ThreatClassificationEngine.class
+com/horizon/service/EventCorrelationEngine.class
+com/horizon/service/LogParsingService.class
+com/horizon/model/ThreatAlert.class
+com/horizon/service/RegexLogParsingService.class
+com/horizon/model/LogEntry$LogEntryBuilder.class

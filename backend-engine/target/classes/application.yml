@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: backend-engine
+  threads:
+    virtual:
+      enabled: true
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.horizon: DEBUG
