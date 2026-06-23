@@ -11,6 +11,13 @@ I designed the architecture to be robust but strictly decoupled. The core engine
 
 On the client side, I built a purely reactive UI using React.js and Vite. The dashboard catches the SSE stream and visually categorizes threats on the fly without ever needing a manual browser refresh. Because the ingestion layer accepts standard HTTP POST requests, any external server, background daemon, or basic shell script can easily push logs directly into the pipeline.
 
+##Key Dependencies & Prerequisites
+
+To build and run this environment locally, ensure you have the following installed:
+* Java Development Kit (JDK) 21 or higher
+* Node.js (v18+ recommended)
+* Maven (for managing backend dependencies)
+* A Linux environment / terminal (WSL on Windows works perfectly)
 
 ## Spin It Up Locally
 
