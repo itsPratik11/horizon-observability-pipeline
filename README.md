@@ -1,4 +1,4 @@
-# Horizon: Real-Time Log Orchestration Pipeline
+# Horizon: Intelligent Log Orchestration & Observability Pipeline
 
 If you have ever spent hours tailing multiple server logs trying to hunt down a single `OutOfMemoryError` or a brute-force SSH attempt, you know exactly why I built Horizon. 
 
